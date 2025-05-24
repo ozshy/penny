@@ -1,4 +1,4 @@
-Data and R-code for a paper titled: "Penny Elimination and Inflation" by Oz Shy
+Data and R-code for a paper titled: "Penny Elimination, Nickel Elimination, and Inflation" by Oz Shy
 
 ---- General Instructions ----
 
