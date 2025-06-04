@@ -8,5 +8,7 @@ Data and R-code for a paper titled: "Penny Elimination, Nickel Elimination, and 
 
 3. Run the R-code from the beginning to the end (don't skip any code in the middle because new variables might be defined).
 
+4. If you are using RStudio, you can also use the bookmarks to jump to the beginning and ending of each figure and table. 
+
 --------------------
 Data source: https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-and-diary-of-consumer-payment-choice
