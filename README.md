@@ -12,3 +12,6 @@ Data and R-code for a paper titled: "Penny Elimination, Nickel Elimination, and 
 
 --------------------
 Data source: https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-and-diary-of-consumer-payment-choice
+
+The Excel file with the interchange fees was downloaded from https://www.kansascityfed.org/research/interchange-fees 
+
