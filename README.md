@@ -15,3 +15,6 @@ Data source: https://www.atlantafed.org/banking-and-payments/consumer-payments/s
 
 The Excel file with the interchange fees was downloaded from https://www.kansascityfed.org/research/interchange-fees 
 
+--------------------
+Note: The 2023 R-code and 2023 RDS (data) are not in the paper. Author's reference only. 
+
